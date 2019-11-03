@@ -1,12 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The first ruby on rails applicaiton
 
 Things you may want to cover:
 
 * Ruby version
-
+    Version 2.6.5
 * System dependencies
 
 * Configuration
